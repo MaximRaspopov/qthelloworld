@@ -6,4 +6,5 @@ CONFIG -= qt
 SOURCES += main.cpp
 
 HEADERS += \
-    testh.h
+    testh.h \
+    test2.h
